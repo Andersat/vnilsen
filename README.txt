@@ -78,5 +78,5 @@ https://codex.wordpress.org/Twenty_Seventeen_Theme_Changelog#Version_1.1
 = 1.0 =
 * Released: December 6, 2016
 
-Initial release
+Initial release.
  
